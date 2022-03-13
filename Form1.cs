@@ -51,6 +51,7 @@ namespace EZtranslate
         public void textBox2_TextChanged(object sender, EventArgs e)
         {
           
+
         }
     }
 }
